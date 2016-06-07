@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625994d0-2656-4429-83e3-29fd240124a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register/templates/chocolate_detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register/templates/user_profile_update.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register/templates/user_update_form.html" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/register/templates/register/add_chocolate.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register/templates/index.html" afterPath="$PROJECT_DIR$/register/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register/urls.py" afterPath="$PROJECT_DIR$/register/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register/views.py" afterPath="$PROJECT_DIR$/register/views.py" />
     </list>
     <ignored path="mysite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -192,8 +185,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="529" />
-    <option name="y" value="477" />
+    <option name="x" value="228" />
+    <option name="y" value="556" />
     <option name="width" value="982" />
     <option name="height" value="640" />
   </component>
@@ -632,7 +625,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="529" y="477" width="982" height="640" extended-state="0" />
+    <frame x="228" y="556" width="982" height="640" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3612245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
